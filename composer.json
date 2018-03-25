@@ -5,5 +5,11 @@
     "license" : "MIT",
     "require": {
         "workerman/gateway-worker-for-win" : ">=3.0.0"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
     }
 }
